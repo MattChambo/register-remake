@@ -280,6 +280,23 @@ article img {
 	font-size: 16px;
 }
 
+#property article img {
+	float: left;
+	padding-right: 10px;
+	padding-top: 10px;
+}
 
+#property a {
+	text-decoration: none;
+	color: black;
+	font-size: 12px;
+}
 
+#property article a {
+	float: right;
+	width: 50%;
+}
 
+#property article {
+	margin-bottom: 10px;
+}
