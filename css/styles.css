@@ -264,8 +264,21 @@ article img {
 	clear: both;
 }
 
+#sponsors img {
+	width: calc(33.333% - 10px);
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;
+	border: 1px solid #dddddd;
+	margin: 5px;
+}
 
-
+#property h1 span {
+	color: #777777;
+	display: block;
+	text-transform: none;
+	font-size: 16px;
+}
 
 
 
